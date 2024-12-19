@@ -6,7 +6,7 @@
 #include <cstdlib>
 #include <ctime>
 
-const int NUM_PASSWORDS = 10000;
+const int NUM_PASSWORDS = 1000;
 const int MIN_LENGTH = 10;
 const int MAX_LENGTH = 30;
 const std::string CHARACTERS = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_+-=[]{}|;:',.<>?";
